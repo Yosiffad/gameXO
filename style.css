@@ -1,0 +1,39 @@
+
+.game{
+    width:500px;
+    text-align: center;
+    justify-content: center;
+    font-family: cursive;
+    color:aliceblue;
+    margin:auto;
+    font-weight: 500;
+    
+
+}
+.title{
+    background-color: black;
+    
+    padding:15px 0;
+    margin:5px 0;
+}
+
+span{
+    color:red;
+}
+
+.square{
+    width: 162px;
+    height:162px;
+    background-color: black;
+    
+    float:left;
+    margin:2px;
+    font-size: 100px;
+    
+}
+.square:hover{
+    color:rgb(255, 0, 0);
+    cursor: pointer;
+    
+}
+
